@@ -203,4 +203,4 @@ MIT License
 
 ## Credits
 
-Created as part of the [Frontend Developer Roadmap](https://roadmap.sh/projects/task-tracker) learning path.
+Created as part of the [Backend Developer Roadmap](https://roadmap.sh/projects/task-tracker) learning path.
