@@ -1,0 +1,21 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "A CLI application to track and manage your tasks",
+  "main": "src/index.js",
+  "bin": {
+    "task-cli": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "cli",
+    "task",
+    "todo",
+    "tracker"
+  ],
+  "author": "",
+  "license": "MIT"
+}
