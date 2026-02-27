@@ -197,23 +197,10 @@ The CLI handles various error cases gracefully:
 - Invalid status values are rejected
 - Missing arguments are caught with helpful usage messages
 
-## Requirements Met
-
-- [x] Add, Update, and Delete tasks
-- [x] Mark a task as in progress or done
-- [x] List all tasks
-- [x] List all tasks that are done
-- [x] List all tasks that are not done (todo)
-- [x] List all tasks that are in progress
-- [x] Built with JavaScript (Node.js)
-- [x] Uses positional arguments in command line
-- [x] Uses a JSON file to store tasks
-- [x] JSON file is created automatically if it doesn't exist
-- [x] Uses native file system module (fs)
-- [x] No external libraries or frameworks
-- [x] Handles errors and edge cases gracefully
-- [x] Task properties: id, description, status, createdAt, updatedAt
-
 ## License
 
 MIT License
+
+## Credits
+
+Created as part of the [Frontend Developer Roadmap](https://roadmap.sh/projects/task-tracker) learning path.
