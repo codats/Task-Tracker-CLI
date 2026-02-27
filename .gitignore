@@ -1,3 +1,9 @@
 # Documentation (keep local)
 *.md
 !README.md
+
+# Task data file (user-specific)
+tasks.json
+
+# Dependencies
+node_modules/
